@@ -1,18 +1,14 @@
 - layout: left
   name: Universidad Rey Juan Carlos
   dates: 2010 - 2012
-  qualification: Master on Free Software
-  quote: >
-    
+  qualification: Master on Free Software 
   description: | # this will include new lines to allow paragraphs
-    
+    Extensive knowledge about software licenses, how they should be applied correctly. Lead a Free Software project based on examples that already exist. History and philosophy behind Free Software.
 
 - layout: left
   name: Universidad Alfonso X El Sabio
   dates: 2008 - 2010
   qualification: Ingeniero en Administración de Sistemas Informáticos
-  quote: >
-    
   description: | # this will include new lines to allow paragraphs
     I learnt Android because it is my final year project. I ported a project in J2ME from Cenatic foundation, which can visualize ODF files. During its development, I had to make the presentation for the ODF Plugfest 2010 in Granada.
 
@@ -20,8 +16,6 @@
   name: IES Ribera del Tajo
   dates: 2005 - 2007
   qualification: Administrador de Sistemas Informáticos 
-  quote: >
-    
   description: | # this will include new lines to allow paragraphs
     I learned the following programming languages:
     C, Borland C++ Builder

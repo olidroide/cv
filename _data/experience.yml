@@ -20,7 +20,9 @@
   quote: >
    Our objective is that the user can find his optimal phone plan and find out how much he would spend with other operator with just installing the app
   description: | # this will include new lines to allow paragraphs
-    Improve and develop new functionalities for Android app.
+    Improve the architecture of the application that was already in production, using design patterns and using the new techniques of compiling Android applications with Gradle. 
+    Change the version control system from SVN to GIT. 
+    Teamwork giving internal talks to improve the technical knowledge of the team.
 
 - layout: left
   company: Gowex - We2
