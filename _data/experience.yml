@@ -6,9 +6,11 @@
   quote: >
    Driving Loyalty Through Personalised Experiences in Real Life
   description: | # this will include new lines to allow paragraphs
-    I created from scratch this app using my experience in all my previous projects. 
-As a UX designer I use all the guidelines of Google provided in Material Design and use Free Software tools for create UI as Inkscape. 
-As a Android developer I'm on constant research of new design patterns, libs and releases for maintain the code fresh and maintenable.
+    I created from scratch this app using my experience in all my previous projects.
+    
+    As a UX designer I use all the guidelines of Google provided in Material Design and use Free Software tools for create UI as Inkscape.
+    
+    As a Android developer I'm on constant research of new design patterns, libs and releases for maintain the code fresh and maintenable.
 
 - layout: left
   company: Weplan
