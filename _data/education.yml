@@ -24,6 +24,6 @@
     
   description: | # this will include new lines to allow paragraphs
     I learned the following programming languages:
-      · C, Borland C++ Builder
-      · HTML, CSS, JavaScript, VBScript, ASP
-      · DataBases language: SQL, PL/SQL
+    C, Borland C++ Builder
+    HTML, CSS, JavaScript, VBScript, ASP
+    DataBases language: SQL, PL/SQL

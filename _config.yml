@@ -4,29 +4,29 @@ repository: olidroide/cv
 
 # Personal info
 name: Oliver Mas
-title: Senior Network System Administrator
+title: Lead Software engineer
 email: cv@olidroide.es
 website: olidroide.es
 
 # Social links
-twitter_username: olidroide
-github_username:  olidroide
+# twitter_username: olidroide
+# github_username:  olidroide
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: olidroide
-linkedin_username: olidroide
+# instagram_username: olidroide
+# linkedin_username: olidroide
 # pinterest_username: jekyll
-youtube_username: olidroide
+# youtube_username: olidroide
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Software engineer specialized in Android (8+ years of experience) and focused in write the best clean code and use design patterns. In the last year I'm moving to Python as my main developer skill, DevOps, and Product lead at Cheerfy Ltd.
+  Software engineer specialized in <mark>Android</mark> (8+ years of experience) and focused in write the best <mark>clean code</mark> and use design patterns. In the last year I'm moving to Python as my main developer skill, DevOps, and Product lead at Cheerfy Ltd.
 
-  As well I have worked at a number of projects of all kinds of technical requirements gaining knowledge, teamwork and leadership skills taking best experiences in each one.
+  As well I have worked at a number of projects of <mark>all kinds of technical requirements</mark> gaining knowledge, teamwork and leadership skills taking best experiences in each one to be.
 
   My obsession is <mark>stay updated</mark> and use last versions of everything. Also use all <mark>Software Libre</mark> than I can use in my daily work(Android, Git, Inkscape, Gimp, Manjaro, VSCode, ...)
 
