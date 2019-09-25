@@ -24,11 +24,11 @@ website: olidroide.es
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Software engineer specialized in <mark>Android</mark> (8+ years of experience) and focused in write the best <mark>clean code</mark> and use design patterns. In the last year I'm moving to Python as my main developer skill, DevOps, and Product lead at Cheerfy Ltd.
+  Software engineer specialized in <mark><b>Android</b></mark> (8+ years of experience) and focused in write the best <mark><b>clean code</b></mark> and use design patterns. In the last year I'm moving to <b>Python</b> as my main developer skill, DevOps, and Product lead at Cheerfy Ltd.
 
-  As well I have worked at a number of projects of <mark>all kinds of technical requirements</mark> gaining knowledge, teamwork and leadership skills taking best experiences in each one to be.
+  As well I have worked at a number of projects of <mark><b>all kinds of technical requirements</b></mark> gaining knowledge, teamwork and leadership skills taking best experiences in each one to be.
 
-  My obsession is <mark><b>stay updated</b></mark> and use last versions of everything. Also use all <mark>Software Libre</mark> than I can use in my daily work(Android, Git, Inkscape, Gimp, Manjaro, VSCode, ...)
+  My obsession is <mark><b>stay updated</b></mark> and use last versions of everything. Also use all <mark><b>Software Libre</b></mark> than I can use in my daily work(Android, Git, Inkscape, Gimp, Manjaro, VSCode, ...)
 
 # Projects Section
 # projects_title: Projects

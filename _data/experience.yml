@@ -6,9 +6,9 @@
   quote: >
    Driving Loyalty Through Personalised Experiences in Real Life
   description: | # this will include new lines to allow paragraphs
-    I created from scratch this app using my experience in all my previous projects.
+    I created <b>from scratch</b> this app using my experience in all my previous projects.
     
-    As a UX designer I use all the guidelines of Google provided in Material Design and use Free Software tools for create UI as Inkscape.
+    As a <b>UX designer</b> I use all the guidelines of Google provided in Material Design and use Free Software tools for create UI as Inkscape.
     
     As a Android developer I'm on constant research of new design patterns, libs and releases for maintain the code fresh and maintenable.
 
@@ -20,9 +20,9 @@
   quote: >
    Our objective is that the user can find his optimal phone plan and find out how much he would spend with other operator with just installing the app
   description: | # this will include new lines to allow paragraphs
-    Improve the architecture of the application that was already in production, using design patterns and using the new techniques of compiling Android applications with Gradle. 
+    <b>Improve</b> the architecture of the application that was already in production, using design patterns and using the new techniques of compiling Android applications with Gradle. 
     Change the version control system from SVN to GIT. 
-    Teamwork giving internal talks to improve the technical knowledge of the team.
+    Teamwork giving <b>internal talks</b> to improve the technical knowledge of the team.
 
 - layout: left
   company: Gowex - We2
@@ -30,7 +30,7 @@
   job_title: Android developer
   dates: October 2013 - September 2014
   quote: >
-   The We2 Social Wi-Fi platform includes the We2 Wi-Fi Router and the We2 Merchant mobile application. Together they allow businesses to provide secure Wi-Fi, create geolocated ads and promotions, message directly with customers, and review real-time customer insights. 
+   The We2 Social Wi-Fi platform includes the Router and the Merchant mobile application to create geolocated ads and promotions, message directly with customers, and review real-time customer insights. 
   description: | # this will include new lines to allow paragraphs
     Android developer of We2, social app to connect automatically to We2 Hotspot around the world and other app for merchants to manage these WiFi access point.
 
@@ -44,13 +44,13 @@
   quote: >
     Work on several top technological projects (Voice recognition, Virtualization, Videoconference and XMPP)
   description: | # this will include new lines to allow paragraphs
-    TuMe: Yarn-android is an Android communications application which can send messages, photos, audio and locations, and allows users to make free calls over WIFI and 3G networks.
+    <b>TuMe</b>: Yarn-android is an Android communications application which can send messages, photos, audio and locations, and allows users to make free calls over WIFI and 3G networks.
 
-    Videoconference solution / Tokbox: Analyze, design and develop solutions to include video from server side, with multipoint, cross-platform, and multi sign-in capabilities, for integrate it with other products of Telefonica.
+    <b>Videoconference solution / Tokbox</b>: Analyze, design and develop solutions to include video from server side, with multipoint, cross-platform, and multi sign-in capabilities, for integrate it with other products of Telefonica.
 
-    Dual persona : Android app for add two independet profiles at the same mobile with two differents number and two different Android OS.
+    <b>Dual persona</b>: Android app for add two independet profiles at the same mobile with two differents number and two different Android OS.
 
-    Talkie : Messaging app with some extras gestures like send kisses when you kiss the phone screen.
+    <b>Talkie</b>: Messaging app with some extras gestures like send kisses when you kiss the phone screen.
 
 - layout: left
   company: Cediant
@@ -60,13 +60,13 @@
   quote: >
     I was involved in developing the Android apps from scratch also maintain already coded apps.
   description: | # this will include new lines to allow paragraphs
-    Llamar a casa: Do international calls with calls national cost.
+    <b>Llamar a casa</b>: Do international calls with calls national cost.
 
-    Portal UAX / Portal Docente UAX : App for teachers and students for review the schedule, send practises…
+    <b>Portal UAX / Portal Docente UAX</b>: App for teachers and students for review the schedule, send practises…
 
-    eTaxi : One of firsts apps for Taxi in Madrid.
+    <b>eTaxi</b>: One of firsts apps for Taxi in Madrid.
 
-    Talky : Android app for realtime chat.
+    <b>Talky</b>: Android app for realtime chat.
 
 - layout: left
   company: Coritel
@@ -74,4 +74,4 @@
   job_title: Developer
   dates: September 2007 - September 2008
   description: | # this will include new lines to allow paragraphs
-     International financial project, programmed in COBOL languaje to IBM MAINFRAME environment. 
+     International financial project developed in COBOL language for IBM MAINFRAME environment. 
