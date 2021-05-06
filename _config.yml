@@ -24,12 +24,12 @@ website: olidroide.es
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-Lead Software engineer with over 10 years of experience focused in apply design patterns and clean code.
-Experience with Mobile projects with <mark><b>Android</b></mark> (8+ years) and Backend architectures with <mark><b>Python</b></mark> (3+ years) is the main skill than I'm coding on.
+  Lead Software engineer with over 10 years of experience focused in apply design patterns and clean code.
+  Experience with Mobile projects with <mark><b>Android</b></mark> (8+ years) and Backend architectures with <mark><b>Python</b></mark> (3+ years) is the main skill than I'm coding on.
 
-As well I have worked at a number of projects of <mark><b>all kinds of technical requirements</b></mark> gaining knowledge, teamwork and leadership skills taking best experiences in each one to be.
+  As well I have worked at a number of projects of <mark><b>all kinds of technical requirements</b></mark> gaining knowledge, teamwork and leadership skills taking best experiences in each one to be.
 
-My obsession is <mark><b>stay updated</b></mark> and use last versions of everything. Also use all Software Libre than I can use in my daily work(Android, Git, Inkscape, Gimp, Manjaro, VSCode, …)
+  My obsession is <mark><b>stay updated</b></mark> and use last versions of everything. Also use all Software Libre than I can use in my daily work(Android, Git, Inkscape, Gimp, Manjaro, VSCode, …)
 
 # Projects Section
 # projects_title: Projects
