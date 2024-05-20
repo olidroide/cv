@@ -8,18 +8,18 @@
   description: | 
     Telefónica - 5GNow/Glider/Neonet (a.k.a OpenGateway):
 
-    - Designed and implemented 3 critical microservices for the backend using FastAPI, leveraging DDD methodology to ensure clean architecture and maintainability.
+    - Designed and implemented 3 critical microservices for the backend using <b>FastAPI</b>, leveraging <b>DDD</b> methodology to ensure clean architecture and maintainability.
     - Established automated testing through CI pipelines for continuous integration and delivery.
-    - Integrated seamlessly with 3rd party systems like JPU (for SIM QoS connectivity) and Amazon AWS for efficient resource utilization.
-    - Implemented real-time telemetry using OpenTelemetry, Prometheus, Loki, and AlertManager, visualized through Grafana dashboards for proactive monitoring.
-    - Collaborated with the frontend team using React with MaterialUI, providing technical guidance, support and write code.
+    - Integrated seamlessly with 3rd party systems like JPU (for SIM QoS connectivity) and <b>Amazon AWS</b> for efficient resource utilization.
+    - Implemented real-time telemetry using <b>OpenTelemetry</b>, Prometheus, Loki, and AlertManager, visualized through Grafana dashboards for proactive monitoring.
+    - Collaborated with the frontend team using <b>React</b> with MaterialUI, providing technical guidance, support and write code.
 
     Applus - CIMSA ERP+CRM custom solution:
 
     - Provided ongoing maintenance for existing backend projects written in Python with <b>Flask</b> and FastAPI, ensuring stability and performance.
     - Extended application functionality by implementing new full-stack features, bridging backend (Python) and frontend (<b>React</b> with Redux-Saga).
     - Managed and optimized <b>Microsoft MSSQL</b> scripting for efficient data manipulation and storage.
-    - Use of Microsoft Azure Cloud Services.
+    - Use of Microsoft <b>Azure Cloud Services</b>.
 
 - layout: left
   company: Cheerfy
