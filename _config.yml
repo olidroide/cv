@@ -24,12 +24,13 @@ website: olidroide.es
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Lead Software engineer with over 10 years of experience focused in apply design patterns and clean code.
-  Experience with Mobile projects with <mark><b>Android</b></mark> (8+ years) and Backend architectures with <mark><b>Python</b></mark> (3+ years) is the main skill than I'm coding on.
+  Senior Full-Stack Developer with 14+ Years of Experience
 
-  As well I have worked at a number of projects of <mark><b>all kinds of technical requirements</b></mark> gaining knowledge, teamwork and leadership skills taking best experiences in each one to be.
+  I bring over 14 years of experience as a full-stack developer, adept at applying design patterns and clean code principles to deliver high-quality,<mark><b>maintainable software</b></mark>. My expertise spans both mobile development (8+ years) using <mark><b>Android</b></mark>, backend architecture with <mark><b>Python</b></mark> (5+ years) and web frontend with <mark><b>React</b></mark> (2+ years).
 
-  My obsession is <mark><b>stay updated</b></mark> and use last versions of everything. Also use all Software Libre than I can use in my daily work(Android, Git, Inkscape, Gimp, Manjaro, VSCode, …)
+  Throughout my career, I've tackled projects with <mark><b>diverse technical requirements</b></mark>. This experience has fostered my strong teamwork and leadership skills, allowing me to learn from each project and continuously improve.
+
+  I'm passionate about staying current with the latest technologies and leverage them effectively in my work. I'm also a strong advocate for Open Source Software (OSS) and actively utilize tools like Android, Git, VSCode, and Linux distributions (Manjaro) in my daily workflow.
 
 # Projects Section
 # projects_title: Projects
@@ -45,7 +46,7 @@ about_content: | # this will include new lines to allow paragraphs
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests software engineering some of my other interests and hobbies are:
    - Dance Bollywood 🕺
-   - Play guitar 🎸
+   - Play ukulele & guitar 🎸
    - Maker 🤖
 
 # Footer

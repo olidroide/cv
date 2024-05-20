@@ -1,11 +1,34 @@
 - layout: left
+  company: Inno-IT
+  link: inno-it.es
+  job_title: Technology Consultant - FullStack Python React Android 
+  dates: September 2021 - Present
+  quote: >
+   Improve client proyects at Telefónica & Applus
+  description: | 
+    Telefónica - 5GNow/Glider/Neonet (a.k.a OpenGateway):
+
+    - Designed and implemented 3 critical microservices for the backend using FastAPI, leveraging DDD methodology to ensure clean architecture and maintainability.
+    - Established automated testing through CI pipelines for continuous integration and delivery.
+    - Integrated seamlessly with 3rd party systems like JPU (for SIM QoS connectivity) and Amazon AWS for efficient resource utilization.
+    - Implemented real-time telemetry using OpenTelemetry, Prometheus, Loki, and AlertManager, visualized through Grafana dashboards for proactive monitoring.
+    - Collaborated with the frontend team using React with MaterialUI, providing technical guidance, support and write code.
+
+    Applus - CIMSA ERP+CRM custom solution:
+
+    - Provided ongoing maintenance for existing backend projects written in Python with <b>Flask</b> and FastAPI, ensuring stability and performance.
+    - Extended application functionality by implementing new full-stack features, bridging backend (Python) and frontend (<b>React</b> with Redux-Saga).
+    - Managed and optimized <b>Microsoft MSSQL</b> scripting for efficient data manipulation and storage.
+    - Use of Microsoft Azure Cloud Services.
+
+- layout: left
   company: Cheerfy
   link: cheerfy.com
   job_title: Lead Software Engineer
-  dates: August 2015 - Present
+  dates: August 2015 - September 2021
   quote: >
    Driving Loyalty Through Personalised Experiences in Real Life
-  description: | # this will include new lines to allow paragraphs
+  description: |
     Start <b>from scratch</b> diverse backend projects writen in Python:
 
     - Wallet for Google Pay & Apple Wallet backend API with <b>FastAPI</b> (Python+SQLAlchemy) in a dockerized environment.
